@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "Improved REPL for Node.js",
   "main": "index.js",
+  "bin": "./repl",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
