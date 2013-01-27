@@ -1,6 +1,6 @@
 {
   "name": "node-better-repl",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Improved REPL for Node.js",
   "main": "index.js",
   "bin": "./repl",
