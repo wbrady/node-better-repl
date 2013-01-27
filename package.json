@@ -1,0 +1,18 @@
+{
+  "name": "node-better-repl",
+  "version": "0.0.0",
+  "description": "Improved REPL for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wbrady/node-better-repl.git"
+  },
+  "keywords": [
+    "repl"
+  ],
+  "author": "Will Brady <willgbrady@gmail.com>",
+  "license": "MIT"
+}
