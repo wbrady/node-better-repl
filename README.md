@@ -4,7 +4,7 @@ better-repl
 Improved REPL for Node.js inspired by [CompoundJS](http://compoundjs.com/)
 
 ## Install
-    $ npm install better-repl
+    $ npm install better-repl -g
 
 ## Usage
 
